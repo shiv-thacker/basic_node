@@ -1,0 +1,29 @@
+[
+	{
+		"id": "1",
+		"city": "surat",
+		"name": "amit",
+		"age": 21
+
+    },
+    {
+		"id": "2",
+		"city": "rajkot",
+		"name": "bhargav",
+		"age": 22
+    },
+    {
+		"id": "3",
+		"city": "amdavad",
+		"name": "het",
+		"age": 23
+    },
+    {
+		"id": "4",
+		"city": "vadodara",
+		"name": "cummins",
+		"age": 24
+    }
+
+]
+		
