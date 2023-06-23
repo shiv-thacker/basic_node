@@ -1,0 +1,3 @@
+hello, my name is shivang thacker,
+i am a react native developer,
+i have complete graduation from GTU.
